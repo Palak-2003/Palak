@@ -24,4 +24,4 @@ I'm always eager to connect with fellow developers, share knowledge, and collabo
 🌈 Continuous Learning:
 I'm a firm believer in lifelong learning. I'm constantly seeking new opportunities to expand my knowledge, stay up-to-date with the latest industry trends, and improve my coding skills.
 
-Thank you for visiting my profile! I look forward to exploring the world of technology together.
+ThankYou for visiting my profile! I look forward to exploring the world of technology together.
