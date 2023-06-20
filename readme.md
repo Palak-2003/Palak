@@ -13,7 +13,7 @@ I'm currently pursuing my Bachelor's degree in Computer Science at Banasthali Vi
 I'm passionate about Programming and Software Development. I enjoy working on projects that challenge me, expand my knowledge, and allow me to apply my skills to solve real-world problems.
 
 🚀 Projects:
-I have worked on several projects during my academic journey. These projects have allowed me to gain practical experience and enhance my skills in Java Developement
+I have worked on several projects during my academic journey. These projects have allowed me to gain practical experience and enhance my skills.
 
 🌟 Open Source Contributions:
 I believe in the power of collaboration and open-source development. I actively contribute to open-source projects and enjoy being part of the vibrant developer community. Check out my repositories to see my contributions.
